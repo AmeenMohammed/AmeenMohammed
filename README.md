@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Shopify Developer with over 4 years of experience creating customized eCommerce solutions. With a background in Full Stack Development, I specialize in building scalable, user-friendly Shopify stores using Liquid, Shopify APIs, custom themes, and third-party integrations. Skilled in JavaScript, React, HTML, CSS, and RESTful APIs, I deliver responsive, high-performing storefronts. I’m passionate about continuous learning and always seek innovative ways to optimize store performance and enhance the customer experience.<br>
+I’m a Shopify Developer with over 5 years of experience creating customized eCommerce solutions. With a background in Full Stack Development, I specialize in building scalable, user-friendly Shopify stores using Liquid, Shopify APIs, custom themes, and third-party integrations. Skilled in JavaScript, React, HTML, CSS, and RESTful APIs, I deliver responsive, high-performing storefronts. I’m passionate about continuous learning and always seek innovative ways to optimize store performance and enhance the customer experience.<br>
 
 
 ## 🌐 Socials:
